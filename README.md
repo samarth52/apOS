@@ -1,7 +1,7 @@
 # apOS
 Advanced Pathology Operating Software
 
-ML system for detection of pathogens in microscope slides. (Currently tested with malaria database only)
+ML system for detection of pathogens in microscope slides. (Currently tested with malaria database)
 
 Written in Python (3.x)
 
